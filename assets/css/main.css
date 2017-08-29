@@ -1,0 +1,76 @@
+.selected{
+  font-size: 8px;
+}
+#pestana{
+  height: 20px;
+  background-color: #cdcdcd;
+}
+#separador{
+  height: 20px;
+  background-color: #979797;
+  margin-bottom: 1%;
+}
+nav{
+  background-color: #5b6573;
+}
+/*.nav-item{
+  padding-right: 3%;
+}*/
+#photo{
+  border-radius: 50%;
+  margin-left: -24px;
+}
+.perfil{
+  margin-top: 5%;
+}
+.datos{
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #eceff1;
+}
+.campos{
+  padding-bottom: 10%;
+}
+.contacto{
+  margin-bottom: 5%;
+}
+.titulos{
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
+.tasas{
+  margin-bottom: 12.5%;
+}
+.contenido-porcentaje{
+  padding-bottom: 15px;
+}
+.porcentaje{
+  font-size: 20px;
+  padding: 3%;
+}
+#blue1{
+  color: #0277bd;
+}
+#blue2{
+  color: #81d4fa;
+}
+#blue3{
+  color: #01579b;
+}
+.enlace{
+  text-decoration: none;
+}
+#enlace-porcentaje{
+  padding-bottom: 15%;
+}
+.especifico{
+  font-size: 10px;
+  color: #cdcdcd;
+}
+#grafica{
+  display: block;
+  margin: 0 auto;
+}
+.alertas{
+  height: 387px;
+}
